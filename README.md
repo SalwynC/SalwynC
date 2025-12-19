@@ -20,62 +20,31 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true&custom_title=Salwyn's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
-</div>alt="GitHub Stats" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalwynC&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
@@ -104,10 +73,7 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 ---
 
-
----
-
-## 🎓 What I'm Learning
+## 🔥 What I'm Learning
 
 - 📊 Advanced MongoDB optimization and indexing
 - 🐳 Docker and containerization
@@ -130,15 +96,9 @@ If you're **hiring**, building something interesting, or just want to talk about
 
 ---
 
-### ⭐ Show Some Love!
-
-If you like what you see, drop a star on my repos! It keeps me motivated to build more cool stuff.
-
 <img src="https://komarev.com/ghpvc/?username=SalwynC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
