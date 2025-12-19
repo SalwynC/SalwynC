@@ -20,14 +20,10 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 ---
 
-## 🎮 My GitHub Contributions as a Game of Life
+## 📊 GitHub Activity Graph
 
 <div align="center">
-    <a href="https://github4life.herokuapp.com/SalwynC"><img src="https://github4life.herokuapp.com/SalwynC" alt="GitHub Game of Life" width="100%"/></a>
-  <p><em>Click it to watch it evolve infinitely!</em></p>
-  
-  
-  This cool visualization takes my GitHub contribution graph and runs it through Conway's Game of Life—a cellular automaton that's basically just cells living, dying, and evolving based on simple rules. It's nerdy, but I think it's a fun way to see your GitHub activity come alive.</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true&custom_title=Salwyn's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
 
 ---
 
