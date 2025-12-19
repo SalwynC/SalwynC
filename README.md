@@ -23,10 +23,7 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 ## 🎮 My GitHub Contributions as a Game of Life
 
 <div align="center">
-  <a href="https://github4life.herokuapp.com/SalwynC">
-    <img src="https://github4life.herokuapp.com/SalwynC" alt="GitHub Game of Life" width="800"/>
-  </a>
-  
+  ![GitHub Game of Life](https://github4life.herokuapp.com/SalwynC)  
   <p><em>Click it to watch it evolve infinitely!</em></p>
   
   This cool visualization takes my GitHub contribution graph and runs it through Conway's Game of Life—a cellular automaton that's basically just cells living, dying, and evolving based on simple rules. It's nerdy, but I think it's a fun way to see your GitHub activity come alive.
@@ -38,9 +35,14 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalwynC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+</div>alt="GitHub Stats" height="170"/>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalwynC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
@@ -106,11 +108,6 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 ---
 
-## 🔥 Current Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" width="600"/>
-</div>
 
 ---
 
