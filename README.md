@@ -19,14 +19,31 @@ A passionate **full-stack web developer** and college student from **India**, ac
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=github_dark">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=github_dark">
+</picture>
 
 ## 📌 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=github_dark)](https://github.com/SalwynC/ethical-shopping-platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=github_dark)](https://github.com/SalwynC/Chat-App)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=default">
+  <img alt="ethical-shopping-platform" src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=github_dark">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=default">
+  <img alt="Chat-App" src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=github_dark">
+</picture>
 
 ## 💬 Let's Connect!
 
