@@ -1,23 +1,34 @@
-# Hi, I'm Salwyn 🙋
+# Hey, I'm Salwyn 👋
 
-Final year computer science student from India juggling between academics and building real-world projects. Right now, I'm actively looking for internship or full-time opportunities where I can contribute meaningful code and grow as a developer.
+I'm in my final year studying computer science in India. Honestly, it's been a balancing act—trying to stay on top of coursework while spending most of my time building stuff that actually works and ships. Right now, I'm actively hunting for internships or full-time roles where I can write real code and learn from people who know way more than I do.
 
-## What I'm Currently Doing
+## My GitHub Contributions as a Game of Life
 
-I'm deep into full-stack development with a focus on the MERN stack. The main project I'm working on is **ethishop** - an e-commerce platform that analyzes products based on sustainability and ethical practices. It's a hands-on project where I'm learning about real backend challenges, database optimization, and deployment. Beyond that, I'm continuously experimenting with different ideas to strengthen my portfolio.
+[![GitHub Game of Life](https://github4life.herokuapp.com/SalwynC)](https://github4life.herokuapp.com/SalwynC)
 
-Balancing college coursework with development work has taught me time management and how to ship projects despite constraints. I've built several projects that are now live on GitHub, ranging from chat applications to utility tools.
+*(Click it to watch it evolve infinitely!)*
 
-## My Tech Toolkit
+This cool visualization takes my GitHub contribution graph and runs it through Conway's Game of Life—a cellular automaton that's basically just cells living, dying, and evolving based on simple rules. It's nerdy, but I think it's a fun way to see your GitHub activity come alive.
 
-I work primarily with:
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS - building responsive and user-friendly interfaces
-- **Backend:** Node.js and Express.js - designing RESTful APIs and handling server-side logic
-- **Database:** MongoDB with proper schema design, authentication, and optimization practices
-- **Deployment:** Vercel for frontend, understanding of MongoDB Atlas, and basic DevOps concepts
-- **Tools I use daily:** VS Code, Git, Postman, and a lot of Stack Overflow :)
+## What I'm Working On
 
-I'm also exploring Python for web scraping and automation tasks on the side.
+Most of my time right now goes into **ethishop**—it's this e-commerce platform I'm building that scores products based on how sustainable and ethical they are. Think "Is this brand treating workers fairly? Is the supply chain transparent?" kind of stuff.
+
+It started as an idea, and now it's turning into a real full-stack project where I'm dealing with backend stuff I never touched in class—like optimizing MongoDB queries so the app doesn't crawl, handling user auth properly, and figuring out deployment without breaking everything.
+
+I've also built a few other things along the way: a chat app, some automation scripts, and random utilities that seemed useful at the time. Some of them actually work pretty well.
+
+## Tech I Use
+
+Here's what I'm comfortable with (and what I use almost every day):
+
+- **Frontend:** JavaScript, React, HTML, CSS, Tailwind—basically building UIs that don't make people want to leave immediately
+- **Backend:** Node.js and Express for APIs, handling routes, middleware, all that jazz
+- **Database:** MongoDB—learning schema design the hard way, setting up indexes, dealing with authentication
+- **Deployment:** I usually deploy frontend stuff on Vercel. Still wrapping my head around Docker and proper DevOps, but getting there.
+- **Tools:** VS Code, Git (obviously), Postman for testing APIs, and honestly, a lot of Stack Overflow and documentation reading
+
+I've also been messing around with Python lately—mostly for web scraping and automation when I need something quick and dirty.
 
 ## GitHub Stats
 
@@ -33,7 +44,7 @@ I'm also exploring Python for web scraping and automation tasks on the side.
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=github_dark">
 </picture>
 
-## Projects I'm Proud Of
+## Some Projects I've Built
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=github_dark">
@@ -49,11 +60,9 @@ I'm also exploring Python for web scraping and automation tasks on the side.
 
 ## Let's Connect
 
-If you're looking for someone who can hit the ground running with full-stack development, or if you have an interesting project or opportunity, I'd love to hear from you.
+If you're hiring, building something interesting, or just want to talk about code, I'm around. I'm actively looking for opportunities where I can contribute and grow—whether that's an internship or a full-time gig.
 
 - **GitHub:** [@SalwynC](https://github.com/SalwynC)
-- **Portfolio:** Coming soon (working on it!)
+- **Portfolio:** Still putting it together (coming soon!)
 
----
-
-Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to chat about web development, tech, or opportunities.
+Feel free to check out my repos or reach out. Always happy to chat about web dev, projects, or just swap coding war stories.
