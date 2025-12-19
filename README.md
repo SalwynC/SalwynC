@@ -47,7 +47,6 @@ A passionate **full-stack web developer** and college student from **India**, ac
 
 ## 💬 Let's Connect!
 
-- 📧 Email: [salwyn.christopher@gmail.com](mailto:salwyn.christopher@gmail.com)
 - 💼 GitHub: [@SalwynC](https://github.com/SalwynC)
 - 🌐 Portfolio: [Coming Soon]
 
