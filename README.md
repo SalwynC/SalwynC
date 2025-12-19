@@ -34,7 +34,7 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&lcard_width=495&&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
