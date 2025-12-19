@@ -24,16 +24,18 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    </div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="600"/>
-[[](url)](url)[[[[[[[](url)](url)](url)](url)](url)](url)](url)</div>[[](url)](url)alt="GitHub Stats" height="180"/>
-[](url)  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="495"/>
 </div>
 
 <div align="center">
-  [](url)Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="495"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalwynC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
