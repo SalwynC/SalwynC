@@ -24,11 +24,13 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-alt="GitHub Stats" width="495"/>
+  alt="GitHub Stats" width="495"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SalwynC&theme=tokyonight&hide_border=true&fire=DD2727&ring=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="495"/>
+
+[![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
@@ -98,7 +100,7 @@ If you're **hiring**, building something interesting, or just want to talk about
 
 **Feel free to check out my repos or reach out. Always happy to chat about web dev, projects, or just swap coding war stories!** 🚀
 
----
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=SalwynC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
