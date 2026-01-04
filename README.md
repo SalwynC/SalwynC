@@ -22,10 +22,10 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 ## 📊 GitHub Stats
 
-##<div align="center">
-  ##<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  ##alt="GitHub Stats" width="495"/>
-##</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  alt="GitHub Stats" width="495"/>
+</div>
 
 <div align="center">
 
