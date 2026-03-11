@@ -77,16 +77,13 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 ---
 
+<div align="center">
+
 ## 📊 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/SalwynC/ethical-shopping-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=tokyonight&hide_border=true" alt="Ethical Shopping Platform"/>
-  </a>
-  <a href="https://github.com/SalwynC/Chat-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=tokyonight&hide_border=true" alt="Chat App"/>
-  </a>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 ---
 
