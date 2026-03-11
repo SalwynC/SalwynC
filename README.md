@@ -83,7 +83,7 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=SalwynC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 ---
 
