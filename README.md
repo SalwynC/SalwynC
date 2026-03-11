@@ -1,5 +1,3 @@
-<img width="468" height="199" alt="image" src="https://github.com/user-attachments/assets/03b204e7-13c1-43be-b9bb-004aee536ec1" /><div align="center">
-
 # Hey there, I'm Salwyn! 👋🚀
 
 ### Final Year CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
