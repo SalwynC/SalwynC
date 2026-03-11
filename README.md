@@ -91,6 +91,7 @@ I've also built a few other things along the way: a chat app, some automation sc
 - 🐍 Python for web scraping and automation
 
 </div>
+
 ---
 
 <div align="center">
