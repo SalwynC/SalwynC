@@ -2,7 +2,7 @@
 
 # Hey there, I'm Salwyn! 👋🚀
 
-### Final Year CS Student | Full-Stack Developer | Open for Opportunities
+### Final Year CS Student | Data Analyst | Full-Stack Developer | Open for Opportunities
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+real-world+projects;MERN+Stack+Developer;Always+learning+new+things;Looking+for+internships+%26+jobs" alt="Typing SVG" />
 
@@ -28,7 +28,13 @@ I'm in my final year studying computer science in India. Honestly, it's been a b
 
 </div>
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -78,12 +84,6 @@ I've also built a few other things along the way: a chat app, some automation sc
 - 🐍 Python for web scraping and automation
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ## 💬 Let's Connect!
 
