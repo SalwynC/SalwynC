@@ -1,6 +1,6 @@
-# Hey there, I'm Salwyn! 👋🚀
-
 <div align="center">
+ 
+# Hey there, I'm Salwyn! 👋🚀
  
 ### Final Year CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
 
@@ -76,7 +76,13 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 ---
 
+<div align="center">
+
 ## 🔥 What I'm Learning
+
+</div>
+
+<div align="left">
 
 - 📊 Advanced MongoDB optimization and indexing
 - 🐳 Docker and containerization
@@ -84,11 +90,16 @@ I've also built a few other things along the way: a chat app, some automation sc
 - 🔒 Better authentication patterns and security
 - 🐍 Python for web scraping and automation
 
+</div>
 ---
+
+<div align="center">
 
 ## 💬 Let's Connect!
 
-<div align="center">
+</div>
+
+<div align="left">
 
 If you're **hiring**, building something interesting, or just want to talk about code, I'm around. I'm actively looking for opportunities where I can contribute and grow—whether that's an internship or a full-time gig.
 
