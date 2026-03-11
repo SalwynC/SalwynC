@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Data+Analyst;MERN+Stack+Developer;Always+learning+new+things;Looking+for+internships+%26+jobs" alt="Typing SVG" />
 
 ---
+
 <div align="center">
 
 ### 👨‍💻 About Me
@@ -18,15 +19,14 @@
 
 I'm a final-year Computer Science student in India. It's been a balancing act between staying on top of coursework and spending most of my time building things that actually work and ship. Right now, I'm **actively hunting for internships or full-time roles** where I can write real code and learn from people who know way more than I do.
 
-💡 Currently working on **ethishop** – an e-commerce platform analyzing products for sustainability  
-🌱 Learning backend optimization, deployment, DevOps practices, and data analysis workflows  
-💬 Ask me about React, Node.js, MongoDB, web development, or data analysis  
-📊 Also interested in Data Analyst, Business Analyst, and Product/Data-driven roles  
+💡 Currently working on **ethishop** - an e-commerce platform analyzing products for sustainability  
+🌱 Learning backend optimization, deployment, DevOps practices, and data analysis workflows 
+💬 Ask me about React, Node.js, MongoDB, web development, or data analysis
+📊 Also interested in Data Analyst, Business Analyst, and Product/Data-driven roles
 ⚡ Fun fact: I rely heavily on Stack Overflow and debugging at 2 AM  
 📧 Reach me: **Open to opportunities!**
 
 </div>
-
 
 ---
 
