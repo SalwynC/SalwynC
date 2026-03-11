@@ -1,7 +1,9 @@
-# Hey there, I'm Salwyn! 👋🚀
+ # Hey there, I'm Salwyn! 👋🚀
 
 ### Final Year CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
 
+<div align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Data+Analyst;MERN+Stack+Developer;Always+learning+new+things;Looking+for+internships+%26+jobs" alt="Typing SVG" />
 
 ---
