@@ -52,14 +52,21 @@ I'm a final-year Computer Science student in India. It's been a balancing act be
 </div>
 
 ---
+<div align="center">
 
 ## 💡 What I'm Working On
 
-Most of my time right now goes into **ethishop**—it's this e-commerce platform I'm building that scores products based on how sustainable and ethical they are. Think "Is this brand treating workers fairly? Is the supply chain transparent?" kind of stuff.
+</div>
 
-It started as an idea, and now it's turning into a real full-stack project where I'm dealing with backend stuff I never touched in class—like optimizing MongoDB queries so the app doesn't crawl, handling user auth properly, and figuring out deployment without breaking everything.
+<div align="left">
 
-I've also built a few other things along the way: a chat app, some automation scripts, and random utilities that seemed useful at the time. Some of them actually work pretty well.
+Most of my time right now goes into **ethishop**—it's an e-commerce platform I'm building that scores products based on how sustainable and ethical they are. Think *“Is this brand treating workers fairly?”* or *“Is the supply chain transparent?”*.
+
+It started as an idea and is now turning into a full-stack project where I'm working on backend problems I never touched in class—like optimizing MongoDB queries so the app doesn’t slow down, handling authentication properly, and figuring out deployment without breaking everything.
+
+I've also built a few other things along the way: a chat app, some automation scripts, and small utilities that seemed useful at the time. Some of them actually work pretty well.
+
+</div>
 
 ---
 
