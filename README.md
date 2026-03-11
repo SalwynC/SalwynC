@@ -89,9 +89,6 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=tokyonight&hide_border=true"/>
 
-<!-- Add new projects like this -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=NEW-REPO-NAME&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
