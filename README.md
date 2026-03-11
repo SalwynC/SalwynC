@@ -30,11 +30,11 @@ I'm a final-year Computer Science student in India. It's been a balancing act be
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight-chi.vercel.app?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 </div>
 
