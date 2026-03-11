@@ -110,6 +110,8 @@ If you're **hiring**, building something interesting, or just want to talk about
 
 </div>
 
+---
+
 <img src="https://komarev.com/ghpvc/?username=SalwynC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
