@@ -83,7 +83,16 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 </div>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=SalwynC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=tokyonight&hide_border=true"/>
+
+<!-- Add new projects like this -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=NEW-REPO-NAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
