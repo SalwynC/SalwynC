@@ -79,6 +79,12 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
 ## 💬 Let's Connect!
 
 <div align="center">
