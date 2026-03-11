@@ -1,4 +1,4 @@
-<div align="center">
+<img width="468" height="199" alt="image" src="https://github.com/user-attachments/assets/03b204e7-13c1-43be-b9bb-004aee536ec1" /><div align="center">
 
 # Hey there, I'm Salwyn! 👋🚀
 
@@ -18,6 +18,8 @@ I'm a final-year Computer Science student in India. It's been a balancing act be
 📊 Also interested in Data Analyst, Business Analyst, and Product/Data-driven roles
 ⚡ Fun fact: I rely heavily on Stack Overflow and debugging at 2 AM  
 📧 Reach me: **Open to opportunities!**
+
+
 ---
 
 ## 📊 GitHub Stats
