@@ -10,14 +10,14 @@
 
 ### 👨‍💻 About Me
 
-I'm in my final year studying computer science in India. Honestly, it's been a balancing act—trying to stay on top of coursework while spending most of my time building stuff that actually works and ships. Right now, I'm **actively hunting for internships or full-time roles** where I can write real code and learn from people who know way more than I do.
+I'm a final-year Computer Science student in India. It's been a balancing act between staying on top of coursework and spending most of my time building things that actually work and ship. Right now, I'm **actively hunting for internships or full-time roles** where I can write real code and learn from people who know way more than I do.
 
 💡 Currently working on **ethishop** - an e-commerce platform analyzing products for sustainability  
-🌱 Learning backend optimization, deployment, and proper DevOps practices  
-💬 Ask me about React, Node.js, MongoDB, or anything web dev  
+🌱 Learning backend optimization, deployment, DevOps practices, and data analysis workflows 
+💬 Ask me about React, Node.js, MongoDB, web development, or data analysis
+📊 Also interested in Data Analyst, Business Analyst, and Product/Data-driven roles
 ⚡ Fun fact: I rely heavily on Stack Overflow and debugging at 2 AM  
 📧 Reach me: **Open to opportunities!**
-
 ---
 
 ## 📊 GitHub Stats
